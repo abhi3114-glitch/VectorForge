@@ -1,0 +1,15 @@
+# Build artifacts
+build/
+*.o
+*.dll
+*.exe
+*.obj
+
+# Python
+__pycache__/
+*.pyc
+
+# Data & Logs
+*.bin
+*.wal
+*.log
